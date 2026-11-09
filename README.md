@@ -240,7 +240,7 @@ Bibliografía completa en [`03Material/recursos/bibliografia.md`](03Material/rec
 7+ años dictando PEBIBA UPROBYS-UNI · 300+ alumnos formados
 
 [jordandataexpert.com](https://www.jordandataexpert.com/about) · [jrodriguezm216@gmail.com](mailto:jrodriguezm216@gmail.com)
-[GitHub](https://github.com/JordanKingPeru) · [LinkedIn](https://www.linkedin.com/in/jordan-rodriguez-peru)
+[GitHub](https://github.com/jordanrodriguezmallqui) · [LinkedIn](https://www.linkedin.com/in/jordan-rodriguez-peru)
 
 </td>
 </tr>
@@ -273,7 +273,7 @@ Este material se libera bajo licencia **Creative Commons BY-NC-SA 4.0** ([texto 
 
 **Cita sugerida** (formato APA 7):
 
-> Rodríguez Mallqui, J. K. (2026). *Fundamentos de programación en Python y R* [Material de curso]. PEBIBA XVIII, Universidad Nacional de Ingeniería. https://github.com/JordanKingPeru/fundamentos-python-r-pebiba-2026
+> Rodríguez Mallqui, J. K. (2026). *Fundamentos de programación en Python y R* [Material de curso]. PEBIBA XVIII, Universidad Nacional de Ingeniería. https://github.com/jordanrodriguezmallqui/fundamentos-python-r-pebiba-2026
 
 ---
 
